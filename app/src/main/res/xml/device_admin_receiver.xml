@@ -1,0 +1,8 @@
+<device-admin>
+    <uses-policies>
+        <limit-password />
+        <watch-login />
+        <reset-password />
+        <force-lock />
+    </uses-policies>
+</device-admin>
